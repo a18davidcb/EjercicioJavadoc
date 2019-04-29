@@ -9,7 +9,7 @@ https://www.lawebdelprogramador.com/codigo/Java/2666-Metodo-de-ordenacion-de-Bur
 import java.io.*;
 
 /**
- * Programa que pide N números por teclados (o número N de números tamén debe
+ * Programa que pide N números por teclado (o número N de números tamén debe
  * ser proporcionado por teclado) que se ordenan e imprimen.
  *
  * @author A18DavidCB
