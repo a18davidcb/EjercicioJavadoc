@@ -16,6 +16,16 @@ import java.io.*;
  */
 public class EjercicioJavadoc {
 
+	/**
+	 * Usando a clase BufferedReader pide un número N que indica o tamaño dun
+	 * array de enteiros e despois pide N números que son engadidos ao array
+	 * para finalmente imprimilos ordenados de maior a menor facendo unha
+	 * chamada ao método burbuja
+	 *
+	 * @param arg Array de strings introducido por liña de comandos, non é usado
+	 * no programa.
+	 * @throws IOException
+	 */
 	public static void main(String arg[]) throws IOException {
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 		System.out.print("\n Ingrese Numero de Datos a Ingresar : ");
